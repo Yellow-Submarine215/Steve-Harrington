@@ -1,0 +1,22 @@
+{
+  "name": "steve-harrington",
+  "version": "1.0.0",
+  "description": "A Discord bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yellow-Submarine215/Steve-Harrington.git"
+  },
+  "author": "_ToOOom",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yellow-Submarine215/Steve-Harrington/issues"
+  },
+  "homepage": "https://github.com/Yellow-Submarine215/Steve-Harrington#readme",
+  "dependencies": {
+    "discord.js": "^12.2.0"
+  }
+}
